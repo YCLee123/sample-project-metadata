@@ -1,0 +1,25 @@
+{
+    "id": 6,
+    "image": "https://YCLee123.github.io/sample-project-metadata/tokens/token6.webp",
+    "token_id": "6",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Test zkEVM NFT #6",
+    "description": "This NFT is sixth Immutable zkEVM NFT",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Tails"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bow Tie"
+      }
+    ]
+  }
